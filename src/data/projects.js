@@ -26,7 +26,7 @@ export const projects = [
     role: 'Solo Developer',
     tech: ['Vue 3', 'Vite', 'Tailwind CSS'],
     liveUrl: '',
-    repoUrl: '',
+    repoUrl: 'https://github.com/MinciNeil/webportfolio',
     image: '/pic5.png',
   },
 ]
